@@ -36,7 +36,7 @@ export default async function handler(req, res) {
       },
       {
         headers: {
-          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          Authorization: `Bearer ${process.env.openai_api_key}`,
           'Content-Type': 'application/json',
         },
       }
