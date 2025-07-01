@@ -1,5 +1,5 @@
 {
-  "name": "vercelBackend",
+  "name": "vercel_backend",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
