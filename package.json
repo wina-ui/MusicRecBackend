@@ -1,5 +1,5 @@
 {
-  "name": "similar_songs_api",
+  "name": "similar_songs",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
